@@ -8,7 +8,7 @@
 
 介绍
 `````````````
-ops-bm.readthedocs.io 是我个人随手笔记，记录一下工作中遇到的问题和技术知识。
+ops-bm.readthedocs.io 笔记域名，记录一下工作中遇到的问题和技术知识。
 
 .. toctree::
    :maxdepth: 2
