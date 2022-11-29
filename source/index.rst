@@ -12,7 +12,7 @@ ops-bm.readthedocs.io 笔记域名，记录一下工作中遇到的问题和技�
 
 .. toctree::
    :maxdepth: 2
-   :caption: 白梦 笔记
+   :caption: 白梦 笔记（持续更新中）
 
    Mr_BM/index
 
