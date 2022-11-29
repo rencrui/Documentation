@@ -12,27 +12,23 @@ ops-doc.readthedocs.io 是我个人随手笔记，记录一下工作中遇到的
 
 .. toctree::
    :maxdepth: 2
-   :caption: 姚庆贵 笔记
+   :caption: 白梦 笔记
 
-   Linux_Notes/index
+   Mr_BM/index
 
 
 .. toctree::
    :caption: 任晟睿 笔记
    :maxdepth: 2
 
-   Python_Notes/index
+   Mr_Ren/index
 
 
 .. toctree::
    :caption: 张帅名 笔记
    :maxdepth: 2
 
-   polygon <BlockChain_Notes/polygon/index>
-   BlockChain_Notes/aelf/index
-   Okx <BlockChain_Notes/OKChain/index>
-   节点部署文档 <BlockChain_Notes/index>
-
+   Mr_Zhang/index
 
 .. toctree::
    :maxdepth: 1
