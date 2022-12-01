@@ -6,7 +6,7 @@ Linux
 
    Linux/index
    
-dbs
+DBS
 =====================================
 
 .. toctree::
@@ -46,7 +46,7 @@ Shell
 
    Shell/index
 
-middleware
+Middleware
 =====================================
 
 .. toctree::
