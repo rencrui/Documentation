@@ -18,7 +18,7 @@ ops-bm.readthedocs.io 笔记域名，记录一下工作中遇到的问题和技�
 
 
 .. toctree::
-   :caption: 任晟睿 笔记
+   :caption: Rencrui 笔记
    :maxdepth: 2
 
    Mr_Ren/index
