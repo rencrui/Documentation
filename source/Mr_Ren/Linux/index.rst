@@ -1,10 +1,24 @@
-Linux 
+Vmware
 ====================
 .. toctree::
     :maxdepth: 2
     
-    Commond
-    Method
-    Services
-    Vmware
-    Inside
+Commond
+====================
+.. toctree::
+    :maxdepth: 2
+
+Method
+====================
+.. toctree::
+    :maxdepth: 2
+
+Services
+====================
+.. toctree::
+    :maxdepth: 2
+
+Inside
+====================
+.. toctree::
+    :maxdepth: 2
