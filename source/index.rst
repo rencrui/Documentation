@@ -26,7 +26,7 @@
 
 
 .. toctree::
-   :caption: 张帅名 笔记
+   :caption:  笔记
    :maxdepth: 2
 
    Mr_Zhang/index
