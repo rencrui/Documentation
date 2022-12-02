@@ -8,7 +8,7 @@ Commond
 .. toctree::
     :maxdepth: 2
     
-    commond/Date
+    commond/index
 
 Method
 ====================
