@@ -1,4 +1,4 @@
-Linux 笔记
+Linux
 =====================================
 
 .. toctree::
@@ -7,7 +7,7 @@ Linux 笔记
 
    Linux_Notes/index
 
-Python 笔记
+Python
 =====================================
 
 .. toctree::
@@ -16,7 +16,7 @@ Python 笔记
 
    Python_Notes/index
 
-BlockChain 笔记
+BlockChain
 =====================================
 
 .. toctree::
