@@ -10,7 +10,13 @@
 `````````````
 记录一下工作中遇到的问题和技术知识。
 
+ 
+.. toctree::
+   :maxdepth: 2
+   :caption: BM Notes（Updating）
 
+   Mr_BM/index
+   
 
 .. toctree::
    :maxdepth: 2
@@ -24,13 +30,7 @@
    :maxdepth: 2
 
    Mr_Zhang/index
-   
-   
-.. toctree::
-   :maxdepth: 2
-   :caption: BM Notes（Updating）
 
-   Mr_BM/index
 
 
 .. toctree::
