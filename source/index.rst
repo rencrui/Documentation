@@ -28,7 +28,7 @@
    
 .. toctree::
    :maxdepth: 2
-   :caption: 白梦 笔记（持续更新中）
+   :caption: BM Notes（Updating）
 
    Mr_BM/index
 
