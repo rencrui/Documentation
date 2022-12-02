@@ -26,7 +26,7 @@
 
 
 .. toctree::
-   :caption:  笔记
+   :caption: Zhangsir Notes（Updating）
    :maxdepth: 2
 
    Mr_Zhang/index
